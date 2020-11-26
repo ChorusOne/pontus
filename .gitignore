@@ -1,0 +1,4 @@
+.vscode
+/config/config.env
+*.log
+/cmd/__debug_bin
